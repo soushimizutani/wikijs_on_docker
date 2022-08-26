@@ -1,1 +1,1 @@
-# wikijs_on_docker
+docker compose up -d
